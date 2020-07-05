@@ -1,3 +1,12 @@
 # functional-matrix-completion
-functional view of geometric matrix completion. Preprint is available here: https://hal.archives-ouvertes.fr/hal-02871840
-and source code will be available here in a couple of weeks.
+Geometric matrix completion: A functional View. Preprint is available here: https://hal.archives-ouvertes.fr/hal-02871840
+
+
+If you find this codebase helpful in your research, please cite:
+@InProceedings{qi2020deep,
+  author={Sharma, Abhishek and Ovsjanikov, Maks},
+  title={Geometric Matrix Completion: A Functional View},
+  booktitle={https://hal.archives-ouvertes.fr/hal-02871840},
+  year={2020}
+}
+
