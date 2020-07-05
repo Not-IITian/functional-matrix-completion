@@ -3,7 +3,8 @@ Geometric matrix completion: A functional View. Preprint is available here: http
 
 
 If you find this codebase helpful in your research, please cite:
-@InProceedings{qi2020deep,
+
+@InProceedings{func_completion_sharma,
   author={Sharma, Abhishek and Ovsjanikov, Maks},
   title={Geometric Matrix Completion: A Functional View},
   booktitle={https://hal.archives-ouvertes.fr/hal-02871840},
